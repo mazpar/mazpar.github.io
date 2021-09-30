@@ -1,0 +1,25 @@
+title: Pari Stares at Starries
+author: Parichay Mazumdar
+email: mazumdar.parichay@gmail.com
+description: >
+  Pari maks a website
+
+minima:
+  social_links:
+    github: mazpar 
+    linkedin: parichaymazumdar
+
+
+# url: "https://cthoyt.com"
+
+paginate: true
+paginate_path: "/blog/page:num/"
+show_excerpts: true
+
+markdown: kramdown
+
+theme: minima
+plugins:
+  - jekyll-feed
+  - jekyll-sitemap
+  - jekyll-paginate
