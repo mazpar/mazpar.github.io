@@ -1,5 +1,7 @@
 ---
 layout: home
+image:
+  background: /img/g305_no_frame.jpg
 ---
  <img src="/img/mazpar_tn.jpg" alt="Parichay Mazumdar" align="left" height="120" style="margin-right: 10px"/> Hi, I am Parichay Mazumdar;
  a Pre Doctoral Researcher at Max-Planck Institute for Radioastronomy, Bonn, Germany. I'm currently working in sub-millimeter astronomy.
