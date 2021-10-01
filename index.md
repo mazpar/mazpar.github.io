@@ -7,7 +7,8 @@ layout: home
  feedback from giant OB stars on their parent GMC. For this I have extensively studied one of the brightest stellar nurseries in our
  Galaxy called G305 using the APEX Telescope at Chile. Here's a really cool picture I made of the G305 region. Check out more about it [here]
  #post blog about your work#.
- <img src="/img/g305_no_frame.jpg" alt="G305" height="400" style="vertical-align:middle;margin:10cm 0px"/>
+ 
+ <img src="/img/g305_no_frame.jpg" alt="G305" height="400" style="vertical-align:middle;margin:10in 0px"/>
 
 Here's some more details [about me] #add location of md file within parenthesis# and [my research] #add location of md file within
 parenthesis#. My résumé can be found [here] #upload a CV pdf and add location# and everything else on ORCID at
