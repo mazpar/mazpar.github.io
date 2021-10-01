@@ -4,7 +4,10 @@ layout: home
  <img src="/img/mazpar_tn.jpg" alt="Parichay Mazumdar" align="left" height="120" style="margin-right: 10px"/> Hi, I am Parichay Mazumdar;
  a Pre Doctoral Researcher at Max-Planck Institute for Radioastronomy, Bonn, Germany. I'm currently working in sub-millimeter astronomy.
  My research focuses on the functioning of Giant Molecular Clouds (aka GMC, stellar nurseries); in particular understanding the role of 
- feedback from giant OB stars on their parent GMC.
+ feedback from giant OB stars on their parent GMC. For this I have extensively studied one of the brightest stellar nurseries in our
+ Galaxy called G305 using the APEX Telescope at Chile. Here's a really cool picture I made of the G305 region. Check out more about it [here]
+ #post blog about your work#.
+ <img src="/img/g305_no_frame.jpg" alt="G305" height="400"/>
 
 Here's some more details [about me] #add location of md file within parenthesis# and [my research] #add location of md file within
 parenthesis#. My résumé can be found [here] #upload a CV pdf and add location# and everything else on ORCID at
