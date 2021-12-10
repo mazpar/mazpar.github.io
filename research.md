@@ -1,7 +1,10 @@
 ---
+
 layout: page
 title: Research Interests
 permalink: /research/
+usemathjax: true
+
 ---
 My research interests fall under two broad areas: understanding conditions in the interstellar medium (ISM) of the Milky Way,
 and the process of galaxy evolution. Given below is a brief summary of different research projects I have done so far.
