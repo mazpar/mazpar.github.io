@@ -12,7 +12,7 @@ image:
  
  <img src="/img/g305_no_frame.jpg" alt="G305" height="400" style="vertical-align:middle;margin:0px 200px"/>
 
-Here's some more details [about me] #add location of md file within parenthesis# and [my research] #add location of md file within
+Here's some more details [about me](about.md) and [my research] #add location of md file within
 parenthesis#. My résumé can be found [here] #upload a CV pdf and add location# and everything else on ORCID at
 <a href= "https://orcid.org/0000-0001-5265-6288"><img alt="ORCID logo" src="/img/logos/orcid_icon.svg" width="16" height="16" />
 https://orcid.org/0000-0001-5265-6288</a>. Contents on this website is licensed under a <img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc/4.0/80x15.png" /> <a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/">
