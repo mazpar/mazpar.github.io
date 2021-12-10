@@ -11,7 +11,7 @@ usemathjax: true
 
 2. Mazumdar, P. et al. (2021), "_G305 Giant Molecular Cloud: I. Feedback on Molecular Gas_", Astronomy & Astrophysics, 650, A164 <a href="https://doi.org/10.1051/0004-6361/202040205"> Link </a>
 
-3. P. Mazumdar, N. Kanekar and J. X. Prochaska (2014), "_Constraints on the gas masses of low-z DLAs._", Mon. Not. R. Astron. Soc., Vol. 443, p. L29-L33, <a href="https://doi.org/10.1093/mnrasl/slu070"> Link </a>
+3. P. Mazumdar, N. Kanekar and J. X. Prochaska (2014), "_Constraints on the gas masses of low-z DLAs._", Mon. Not. R. Astron. Soc., Vol. 443, p. L29-L33. <a href="https://doi.org/10.1093/mnrasl/slu070"> Link </a>
 
 ### Co-authored
 
