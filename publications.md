@@ -2,7 +2,6 @@
 layout: page
 title: Publications
 permalink: /publications/
-usemathjax: true
 ---
 
 ### First Author
