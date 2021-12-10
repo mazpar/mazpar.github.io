@@ -3,7 +3,7 @@ layout: page
 title: About
 permalink: /about/
 ---
-   Straight out of a dusty small town called Bargarh, located in the western border of the eastern state of Odisha in India. I am currently a doctoral candidate in the sub-millimeter astronomy department of the Max-Planck Institute for Radioastronomy (MPIfR) in Bonn, Germany.
+   Straight out of a dusty small town called Bargarh, located in the western border of the eastern state of Odisha in India, I am currently a doctoral candidate in the sub-millimeter astronomy department of the Max-Planck Institute for Radioastronomy (MPIfR) in Bonn, Germany.
    
    I got a first taste of radioastronomy during my bachelor studies. It was during the summer of 2013 when I did a summer internship at the National Institute of Radio Astrophysics (NCRA) in Pune, India. I worked with HI 21cm data from three very special kinds of galaxies at high-redshift (fancy term we astronomers like to use for extremely large distances, but it also means we are looking back in time!) obtained using the Green Bank Telescope located in the US. These galaxies have extremely large amounts of neutral hydrogen (aka stellar fuel). We study these to get a clue on how current day galaxies formed. That summer got me hooked on radioastronomy!
    
